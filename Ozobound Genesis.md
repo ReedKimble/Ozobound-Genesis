@@ -42,7 +42,7 @@ For order must be written.
 
 And for Urza, the price of failure was one he had paid before and would never pay again.
 
-## Forging with Mirrodin�s Gifts
+## Forging with Mirrodin's Gifts
 
 The lattice had been only the beginning. From his secret caches of Mirrodin's alloys, Urza drew forth more than simple metals. He unearthed **etherium-infused Dominaria alloys**, veins of **silversteel** that resonated like living thought, and shards of **hexplate**, glasslike and nearly unbreakable. These materials, once forged for Karn's designs, had lain dormant in Urza's possession, waiting for a purpose worthy of them. The Ozolith gave them that purpose.
 
@@ -105,7 +105,7 @@ The lesser Arcbound bent to it instinctively, their disjointed limbs trembling a
 Yet as he watched the Sovereign loom above its kin, he could not shake the irony. He had forged a machine to govern evolution, but in giving it such power, had he not created something perilously close to a will of its own?
 
 ________________________________________
-## Vivien�s Warning
+## Vivien's Warning
 
 Vivien Reid returned to the lattice soon after the Sovereign's awakening. She watched from the treeline as the towering construct marshaled the Arcbound, their forms shimmering with unstable energy. To her, it was not order but domination - a perversion of nature, its rhythm stolen and rewritten.
 
@@ -119,7 +119,7 @@ Urza's gaze never left the Sovereign, its crystal spines glowing with energy dra
 
 Vivien's bow lowered, but only slightly. "You believe yourself the master of chaos. But you are only its next vessel."
 
-### Vivien�s Vigil
+### Vivien's Vigil
 
 Vivien did not stay to watch the Sovereign's first march. She knew Urza too well - knew that warnings alone could not sway a mind that saw every argument as a puzzle to be solved, every threat as an opportunity for refinement.
 
@@ -151,7 +151,7 @@ Yet the dangers were undeniable. Already, his lesser Arcbound prototypes were wa
 
 Vivien's warning echoed in Urza's mind, though he did not admit it aloud: The Ozolith adapts. It always adapts.
 
-## Urza�s Choice
+## Urza's Choice
 
 The lattice shuddered as another surge erupted, arcs of energy striking out like lightning into the countryside. If left unchecked, the resonance would soon escalate into full planar fusion - a disaster that could collapse Ikoria, bleed Dominaria, or birth some new, uncontrolled reality between them.
 
@@ -177,7 +177,7 @@ Urza lowered his staff, breathless, and for the first time in centuries, smiled.
 
 Not destruction. Not conquest. Evolution.
 
-## The Warden�s Oath
+## The Warden's Oath
 
 Vivien returned to the lattice field weeks later, following the unnatural glow that bled across Ikoria's skies. Where once she had seen crude constructs tethered to a trembling stone, she now found an army - gleaming frames of brass and crystal, their limbs disjointed but held firm by arcs of living blue energy. They moved with a rhythm that was neither wholly mechanical nor entirely bestial. They breathed, in their own way, and their luminous eyes turned toward her as though aware of her approach.
 
